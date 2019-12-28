@@ -1,4 +1,5 @@
 {
   "python.pythonPath": "/Users/jonathan/.local/share/virtualenvs/mysite-q-4TX1U6/bin/python",
+  "python.linting.pylintArgs": ["--load-plugins=pylint-django"],
   "cSpell.words": ["mysite"]
 }
